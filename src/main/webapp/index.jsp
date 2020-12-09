@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Welcome to devops continious integration is working!</h2>
 </body>
 </html>
